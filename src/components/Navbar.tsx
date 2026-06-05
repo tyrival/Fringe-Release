@@ -13,9 +13,9 @@ export default function Navbar() {
       <div className="max-w-6xl mx-auto px-6 h-14 flex items-center justify-between">
         <a href="#" className="flex items-center gap-2.5 no-underline group">
           <img
-            src={theme === 'dark' ? logoLight : logoDark}
+            src={theme === 'dark' ? logoDark : logoLight}
             alt="Fringe"
-            className="h-7 w-auto rounded-lg"
+            className="h-7 w-auto rounded-lg ring-1 ring-[#5A7FEF]/30 shadow-[0_0_12px_rgba(90,127,239,0.2)]"
           />
         </a>
 
