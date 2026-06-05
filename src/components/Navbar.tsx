@@ -15,7 +15,7 @@ export default function Navbar() {
           <img
             src={theme === 'dark' ? logoLight : logoDark}
             alt="Fringe"
-            className="h-7 w-auto"
+            className="h-7 w-auto rounded-lg"
           />
         </a>
 
