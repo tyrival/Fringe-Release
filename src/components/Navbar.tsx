@@ -1,6 +1,8 @@
 import { Download } from 'lucide-react'
 import { useI18n } from '../i18n/I18nContext'
 import { useTheme } from '../theme/ThemeContext'
+import logoDark from '../assets/logo-dark.png'
+import logoLight from '../assets/logo-light.png'
 
 export default function Navbar() {
   const { t, lang, setLang } = useI18n()
@@ -10,7 +12,11 @@ export default function Navbar() {
     <nav className="fixed top-0 left-0 right-0 z-50 bg-[#f8f9fb]/80 dark:bg-[#0a0d14]/75 backdrop-blur-xl border-b border-[#e5e5ea] dark:border-[#1e2230]">
       <div className="max-w-6xl mx-auto px-6 h-14 flex items-center justify-between">
         <a href="#" className="flex items-center gap-2.5 no-underline group">
-          <span className="text-xl font-bold text-[#1d1d1f] dark:text-[#e8e8ed] tracking-tight group-hover:text-[#5A7FEF] transition-colors">Fringe</span>
+          <img
+            src={theme === 'dark' ? logoLight : logoDark}
+            alt="Fringe"
+            className="h-7 w-auto"
+          />
         </a>
 
         <div className="flex items-center gap-1.5">
