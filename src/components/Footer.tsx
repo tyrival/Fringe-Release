@@ -8,7 +8,7 @@ export default function Footer() {
       <div className="max-w-6xl mx-auto px-6 flex items-center justify-between">
         <span className="text-sm text-[#aeaeb2] dark:text-[#5a5a6e]">Fringe</span>
         <div className="flex items-center gap-6">
-          <a href="/Fringe.dmg"
+          <a href="https://github.com/tyrival/Fringe-Release/releases/download/v1.0.0/Fringe.dmg"
             className="text-sm text-[#6e6e73] dark:text-[#8e8e9a] hover:text-[#1d1d1f] dark:hover:text-[#e8e8ed] transition-colors no-underline"
           >
             {t.footer.download}

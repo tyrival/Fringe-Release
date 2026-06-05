@@ -11,7 +11,7 @@ export default function CTA() {
           {t.cta.title}
         </h2>
         <p className="text-[#6e6e73] dark:text-[#8e8e9a] mb-8">{t.cta.desc}</p>
-        <a href="/Fringe.dmg"
+        <a href="https://github.com/tyrival/Fringe-Release/releases/download/v1.0.0/Fringe.dmg"
           className="inline-flex items-center gap-2 px-8 py-3.5 text-base font-semibold text-white
             bg-gradient-to-r from-[#5A7FEF] to-[#6A8FF0] hover:from-[#4A6FDF] hover:to-[#5A7FEF]
             rounded-xl shadow-[0_4px_24px_rgba(90,127,239,0.3)] dark:shadow-[0_4px_32px_rgba(90,127,239,0.4)]
