@@ -17,6 +17,7 @@ export default function Navbar() {
             alt="Fringe"
             className="h-7 w-auto rounded-lg ring-1 ring-[#5A7FEF]/30 shadow-[0_0_12px_rgba(90,127,239,0.2)]"
           />
+          <span className="text-lg font-bold text-[#1d1d1f] dark:text-[#e8e8ed] tracking-tight group-hover:text-[#5A7FEF] dark:group-hover:text-[#8AAAFF] transition-colors">Fringe</span>
         </a>
 
         <div className="flex items-center gap-1.5">
