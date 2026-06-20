@@ -35,7 +35,7 @@ export default function Navbar() {
               <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
             )}
           </button>
-          <a href="https://github.com/tyrival/Fringe-Release/releases/download/v1.0.0/Fringe.dmg"
+          <a href="https://github.com/tyrival/Fringe-Release/releases/latest/download/Fringe.dmg"
             className="flex items-center justify-center gap-1.5 px-4 py-1.5 text-sm font-semibold text-white bg-[#5A7FEF] hover:bg-[#4A6FDF] rounded-lg transition-colors no-underline ml-1"
           >
             <Download size={14} />
