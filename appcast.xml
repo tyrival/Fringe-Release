@@ -4,7 +4,14 @@
     <title>Fringe</title>
     <description>Most recent updates to Fringe</description>
     <language>en</language>
-  <item><title>Version 1.1.1</title><sparkle:version>7</sparkle:version><sparkle:shortVersionString>1.1.1</sparkle:shortVersionString><sparkle:minimumSystemVersion>26.5</sparkle:minimumSystemVersion><description>## What's New
+  <item><title>Version 1.1.2</title><sparkle:version>8</sparkle:version><sparkle:shortVersionString>1.1.2</sparkle:shortVersionString><sparkle:minimumSystemVersion>26.5</sparkle:minimumSystemVersion><description sparkle:format="markdown">## What's New
+- No notable changes.
+
+## Improvements
+- No notable changes.
+
+## Fixes
+- No notable changes.</description><enclosure url="https://github.com/tyrival/Fringe-Release/releases/download/v1.1.2/Fringe.dmg" sparkle:version="8" sparkle:shortVersionString="1.1.2" length="2127447" type="application/octet-stream" sparkle:edSignature="0ObvONP3nt/BiWFxlndF6KMVzisuBaVJkhCX5RTbmFGZgN7V/CFmyAne+bFr3hV3AHaioZNvvIbhKxlbHkuRAQ==" /></item><item><title>Version 1.1.1</title><sparkle:version>7</sparkle:version><sparkle:shortVersionString>1.1.1</sparkle:shortVersionString><sparkle:minimumSystemVersion>26.5</sparkle:minimumSystemVersion><description>## What's New
 - Added Markdown editing with local image support.
 
 ## Improvements
