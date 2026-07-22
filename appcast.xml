@@ -4,7 +4,17 @@
     <title>Fringe</title>
     <description>Most recent updates to Fringe</description>
     <language>en</language>
-  <item><title>Version 1.1.5</title><sparkle:version>11</sparkle:version><sparkle:shortVersionString>1.1.5</sparkle:shortVersionString><sparkle:minimumSystemVersion>26.5</sparkle:minimumSystemVersion><description sparkle:format="markdown">## What's New
+  <item><title>Version 1.1.6</title><sparkle:version>12</sparkle:version><sparkle:shortVersionString>1.1.6</sparkle:shortVersionString><sparkle:minimumSystemVersion>26.5</sparkle:minimumSystemVersion><description sparkle:format="markdown">TokenPrismTrace 2026-07-22T07:12:12.996Z [main] App.init begin
+TokenPrismTrace 2026-07-22T07:12:13.030Z [main] App.init begin
+TokenPrismTrace 2026-07-22T07:12:17.585Z [main] App.init begin
+## What's New
+- No notable changes.
+
+## Improvements
+- No notable changes.
+
+## Fixes
+- No notable changes.</description><enclosure url="https://github.com/tyrival/Fringe-Release/releases/download/v1.1.6/Fringe.dmg" sparkle:version="12" sparkle:shortVersionString="1.1.6" length="2192157" type="application/octet-stream" sparkle:edSignature="y/vHWkTN/KOGwg/mYifmrneVXcuZEklDB6iwQ5ZiCV8CuMSSq7/Ef7XwLMubzNZmwG8x6KSrYPobld4LjXBdDQ==" /></item><item><title>Version 1.1.5</title><sparkle:version>11</sparkle:version><sparkle:shortVersionString>1.1.5</sparkle:shortVersionString><sparkle:minimumSystemVersion>26.5</sparkle:minimumSystemVersion><description sparkle:format="markdown">## What's New
 - No notable changes.
 
 ## Improvements
