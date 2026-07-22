@@ -4,7 +4,15 @@
     <title>Fringe</title>
     <description>Most recent updates to Fringe</description>
     <language>en</language>
-  <item><title>Version 1.1.3</title><sparkle:version>9</sparkle:version><sparkle:shortVersionString>1.1.3</sparkle:shortVersionString><sparkle:minimumSystemVersion>26.5</sparkle:minimumSystemVersion><description sparkle:format="markdown">## What's New
+  <item><title>Version 1.1.4</title><sparkle:version>10</sparkle:version><sparkle:shortVersionString>1.1.4</sparkle:shortVersionString><sparkle:minimumSystemVersion>26.5</sparkle:minimumSystemVersion><description sparkle:format="markdown">## What's New
+- Drag cards to reorder them.
+- Press Cmd+W to close popout windows.
+
+## Improvements
+- No notable changes.
+
+## Fixes
+- No notable changes.</description><enclosure url="https://github.com/tyrival/Fringe-Release/releases/download/v1.1.4/Fringe.dmg" sparkle:version="10" sparkle:shortVersionString="1.1.4" length="2191979" type="application/octet-stream" sparkle:edSignature="7LabVsO/UpyjMGUwVZSr8QnhIKQJ3Kv/qOs32lcknR/TQoWbRN1Hhl/ahPWtU9nsyERHhx19XfrtdaMMEh9YAw==" /></item><item><title>Version 1.1.3</title><sparkle:version>9</sparkle:version><sparkle:shortVersionString>1.1.3</sparkle:shortVersionString><sparkle:minimumSystemVersion>26.5</sparkle:minimumSystemVersion><description sparkle:format="markdown">## What's New
 - No notable changes.
 
 ## Improvements
