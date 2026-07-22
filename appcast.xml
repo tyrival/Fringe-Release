@@ -4,7 +4,14 @@
     <title>Fringe</title>
     <description>Most recent updates to Fringe</description>
     <language>en</language>
-  <item><title>Version 1.1.4</title><sparkle:version>10</sparkle:version><sparkle:shortVersionString>1.1.4</sparkle:shortVersionString><sparkle:minimumSystemVersion>26.5</sparkle:minimumSystemVersion><description sparkle:format="markdown">## What's New
+  <item><title>Version 1.1.5</title><sparkle:version>11</sparkle:version><sparkle:shortVersionString>1.1.5</sparkle:shortVersionString><sparkle:minimumSystemVersion>26.5</sparkle:minimumSystemVersion><description sparkle:format="markdown">## What's New
+- No notable changes.
+
+## Improvements
+- No notable changes.
+
+## Fixes
+- Cards now display correctly above other content while being dragged to reorder.</description><enclosure url="https://github.com/tyrival/Fringe-Release/releases/download/v1.1.5/Fringe.dmg" sparkle:version="11" sparkle:shortVersionString="1.1.5" length="2192795" type="application/octet-stream" sparkle:edSignature="UC/Am//2p3Frzcqn/Mx4h3qNIgCNWA5bK4oPHlmzuxMTYQi3eIPnnhgK5Myh6qug3qwztcyoxQKMsVqir9XbCw==" /></item><item><title>Version 1.1.4</title><sparkle:version>10</sparkle:version><sparkle:shortVersionString>1.1.4</sparkle:shortVersionString><sparkle:minimumSystemVersion>26.5</sparkle:minimumSystemVersion><description sparkle:format="markdown">## What's New
 - Drag cards to reorder them.
 - Press Cmd+W to close popout windows.
 
