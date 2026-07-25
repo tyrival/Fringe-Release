@@ -4,7 +4,14 @@
     <title>Fringe</title>
     <description>Most recent updates to Fringe</description>
     <language>en</language>
-  <item><title>Version 1.1.6</title><sparkle:version>12</sparkle:version><sparkle:shortVersionString>1.1.6</sparkle:shortVersionString><sparkle:minimumSystemVersion>26.5</sparkle:minimumSystemVersion><description sparkle:format="markdown">TokenPrismTrace 2026-07-22T07:12:12.996Z [main] App.init begin
+  <item><title>Version 1.1.7</title><sparkle:version>13</sparkle:version><sparkle:shortVersionString>1.1.7</sparkle:shortVersionString><sparkle:minimumSystemVersion>26.5</sparkle:minimumSystemVersion><description sparkle:format="markdown">## What's New
+- Added GlobalText AI text processing.
+
+## Improvements
+- No notable changes.
+
+## Fixes
+- No notable changes.</description><enclosure url="https://github.com/tyrival/Fringe-Release/releases/download/v1.1.7/Fringe.dmg" sparkle:version="13" sparkle:shortVersionString="1.1.7" length="2524621" type="application/octet-stream" sparkle:edSignature="Ww+xdQ4wN/nUw1zeTzK2yKqeoBKzqGnG3EgyDJCfXQ3P2BoLm0C1RlYqSfmy9sm6U51YXYZe1tpKolF9BUhKDg==" /></item><item><title>Version 1.1.6</title><sparkle:version>12</sparkle:version><sparkle:shortVersionString>1.1.6</sparkle:shortVersionString><sparkle:minimumSystemVersion>26.5</sparkle:minimumSystemVersion><description sparkle:format="markdown">TokenPrismTrace 2026-07-22T07:12:12.996Z [main] App.init begin
 TokenPrismTrace 2026-07-22T07:12:13.030Z [main] App.init begin
 TokenPrismTrace 2026-07-22T07:12:17.585Z [main] App.init begin
 ## What's New
