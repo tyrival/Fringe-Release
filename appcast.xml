@@ -4,7 +4,14 @@
     <title>Fringe</title>
     <description>Most recent updates to Fringe</description>
     <language>en</language>
-  <item><title>Version 1.1.8</title><sparkle:version>14</sparkle:version><sparkle:shortVersionString>1.1.8</sparkle:shortVersionString><sparkle:minimumSystemVersion>26.5</sparkle:minimumSystemVersion><description sparkle:format="markdown">## What's New
+  <item><title>Version 1.1.9</title><sparkle:version>15</sparkle:version><sparkle:shortVersionString>1.1.9</sparkle:shortVersionString><sparkle:minimumSystemVersion>26.5</sparkle:minimumSystemVersion><description sparkle:format="markdown">## What's New
+- Global Text now detects selections more reliably and places the panel more intelligently.
+
+## Improvements
+- No notable changes.
+
+## Fixes
+- No notable changes.</description><enclosure url="https://github.com/tyrival/Fringe-Release/releases/download/v1.1.9/Fringe.dmg" sparkle:version="15" sparkle:shortVersionString="1.1.9" length="2532639" type="application/octet-stream" sparkle:edSignature="NZgh73DYhO9rhjY3JpxmJb3XW5PQD0hWdTZok919pNJXO/Yg8qvKjg0Xd0W69Bn2TQhiO9mXPty6orL3EemuCg==" /></item><item><title>Version 1.1.8</title><sparkle:version>14</sparkle:version><sparkle:shortVersionString>1.1.8</sparkle:shortVersionString><sparkle:minimumSystemVersion>26.5</sparkle:minimumSystemVersion><description sparkle:format="markdown">## What's New
 - GlobalText now falls back to clipboard selection when direct text capture is unavailable.
 
 ## Improvements
