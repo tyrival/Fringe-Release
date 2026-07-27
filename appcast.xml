@@ -4,7 +4,14 @@
     <title>Fringe</title>
     <description>Most recent updates to Fringe</description>
     <language>en</language>
-  <item><title>Version 1.1.10</title><sparkle:version>16</sparkle:version><sparkle:shortVersionString>1.1.10</sparkle:shortVersionString><sparkle:minimumSystemVersion>26.5</sparkle:minimumSystemVersion><description sparkle:format="markdown">## What's New
+  <item><title>Version 1.2.0</title><sparkle:version>17</sparkle:version><sparkle:shortVersionString>1.2.0</sparkle:shortVersionString><sparkle:minimumSystemVersion>26.5</sparkle:minimumSystemVersion><description sparkle:format="markdown">## What's New
+- Added an app picker in Settings to exclude specific apps.
+
+## Improvements
+- No notable changes.
+
+## Fixes
+- No notable changes.</description><enclosure url="https://github.com/tyrival/Fringe-Release/releases/download/v1.2.0/Fringe.dmg" sparkle:version="17" sparkle:shortVersionString="1.2.0" length="2577442" type="application/octet-stream" sparkle:edSignature="9YN0DhDJ5PMd1R6gUrC4L6VmwUorgDJyd7jXM/vM7hmAfkwh6CFwSDt/mp8MKa/1dqI0a7h1U68Go8YTycXDBg==" /></item><item><title>Version 1.1.10</title><sparkle:version>16</sparkle:version><sparkle:shortVersionString>1.1.10</sparkle:shortVersionString><sparkle:minimumSystemVersion>26.5</sparkle:minimumSystemVersion><description sparkle:format="markdown">## What's New
 - Added the ability to read selected text from any app using accessibility
 - Added AI provider settings for configuring your preferred AI backend
 
