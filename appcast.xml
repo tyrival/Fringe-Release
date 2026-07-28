@@ -4,7 +4,16 @@
     <title>Fringe</title>
     <description>Most recent updates to Fringe</description>
     <language>en</language>
-  <item><title>Version 1.2.0</title><sparkle:version>17</sparkle:version><sparkle:shortVersionString>1.2.0</sparkle:shortVersionString><sparkle:minimumSystemVersion>26.5</sparkle:minimumSystemVersion><description sparkle:format="markdown">## What's New
+  <item><title>Version 1.2.1</title><sparkle:version>18</sparkle:version><sparkle:shortVersionString>1.2.1</sparkle:shortVersionString><sparkle:minimumSystemVersion>26.5</sparkle:minimumSystemVersion><description sparkle:format="markdown">Based on the single commit provided (a chore with no user-facing changes), here are the release notes:
+
+## What's New
+- No notable changes.
+
+## Improvements
+- No notable changes.
+
+## Fixes
+- No notable changes.</description><enclosure url="https://github.com/tyrival/Fringe-Release/releases/download/v1.2.1/Fringe.dmg" sparkle:version="18" sparkle:shortVersionString="1.2.1" length="2576541" type="application/octet-stream" sparkle:edSignature="C5ni2FaTDVWKYJTpoItv2u0KQUaDvjCIRvgAawlxJSy7Hd71clFE3qiXtM9dK/0X+wm5fJuHpKLAssjRUh4QBw==" /></item><item><title>Version 1.2.0</title><sparkle:version>17</sparkle:version><sparkle:shortVersionString>1.2.0</sparkle:shortVersionString><sparkle:minimumSystemVersion>26.5</sparkle:minimumSystemVersion><description sparkle:format="markdown">## What's New
 - Added an app picker in Settings to exclude specific apps.
 
 ## Improvements
