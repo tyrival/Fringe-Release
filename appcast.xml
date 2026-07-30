@@ -4,7 +4,14 @@
     <title>Fringe</title>
     <description>Most recent updates to Fringe</description>
     <language>en</language>
-  <item><title>Version 1.2.1</title><sparkle:version>18</sparkle:version><sparkle:shortVersionString>1.2.1</sparkle:shortVersionString><sparkle:minimumSystemVersion>26.5</sparkle:minimumSystemVersion><description sparkle:format="markdown">Based on the single commit provided (a chore with no user-facing changes), here are the release notes:
+  <item><title>Version 1.2.2</title><sparkle:version>19</sparkle:version><sparkle:shortVersionString>1.2.2</sparkle:shortVersionString><sparkle:minimumSystemVersion>26.5</sparkle:minimumSystemVersion><description sparkle:format="markdown">## What's New
+- No notable changes.
+
+## Improvements
+- Enlarged card window to 504×728 for easier reading.
+
+## Fixes
+- No notable changes.</description><enclosure url="https://github.com/tyrival/Fringe-Release/releases/download/v1.2.2/Fringe.dmg" sparkle:version="19" sparkle:shortVersionString="1.2.2" length="2576574" type="application/octet-stream" sparkle:edSignature="SKDKBf0x76lCHHRXDF4uV5xoS/OT3thWHY5YRYSBpY9f9kyjVUHZwvrhM+J9p2InnHWFs4ElhGBe8jCeexQbBw==" /></item><item><title>Version 1.2.1</title><sparkle:version>18</sparkle:version><sparkle:shortVersionString>1.2.1</sparkle:shortVersionString><sparkle:minimumSystemVersion>26.5</sparkle:minimumSystemVersion><description sparkle:format="markdown">Based on the single commit provided (a chore with no user-facing changes), here are the release notes:
 
 ## What's New
 - No notable changes.
