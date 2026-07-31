@@ -4,7 +4,14 @@
     <title>Fringe</title>
     <description>Most recent updates to Fringe</description>
     <language>en</language>
-  <item><title>Version 1.2.2</title><sparkle:version>19</sparkle:version><sparkle:shortVersionString>1.2.2</sparkle:shortVersionString><sparkle:minimumSystemVersion>26.5</sparkle:minimumSystemVersion><description sparkle:format="markdown">## What's New
+  <item><title>Version 1.2.3</title><sparkle:version>20</sparkle:version><sparkle:shortVersionString>1.2.3</sparkle:shortVersionString><sparkle:minimumSystemVersion>26.5</sparkle:minimumSystemVersion><description sparkle:format="markdown">## What's New
+- Capsule action icons now respond with a subtle hover effect.
+
+## Improvements
+- No notable changes.
+
+## Fixes
+- No notable changes.</description><enclosure url="https://github.com/tyrival/Fringe-Release/releases/download/v1.2.3/Fringe.dmg" sparkle:version="20" sparkle:shortVersionString="1.2.3" length="2575505" type="application/octet-stream" sparkle:edSignature="IXP6Ps+habLvE/I4H5iPzHey1JwwztVRY7xGnjYIc0DYiLGWAWHVcFH9O0Ff5P+TFpsOuWvIR9wVzFl2zRvuDw==" /></item><item><title>Version 1.2.2</title><sparkle:version>19</sparkle:version><sparkle:shortVersionString>1.2.2</sparkle:shortVersionString><sparkle:minimumSystemVersion>26.5</sparkle:minimumSystemVersion><description sparkle:format="markdown">## What's New
 - No notable changes.
 
 ## Improvements
