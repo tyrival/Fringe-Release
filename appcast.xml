@@ -4,7 +4,14 @@
     <title>Fringe</title>
     <description>Most recent updates to Fringe</description>
     <language>en</language>
-  <item><title>Version 1.2.4</title><sparkle:version>21</sparkle:version><sparkle:shortVersionString>1.2.4</sparkle:shortVersionString><sparkle:minimumSystemVersion>26.5</sparkle:minimumSystemVersion><description sparkle:format="markdown">## What's New
+  <item><title>Version 1.2.5</title><sparkle:version>22</sparkle:version><sparkle:shortVersionString>1.2.5</sparkle:shortVersionString><sparkle:minimumSystemVersion>26.5</sparkle:minimumSystemVersion><description sparkle:format="markdown">## What's New
+- Global Text panel now expands to 630px and uses your editor font settings.
+
+## Improvements
+- No notable changes.
+
+## Fixes
+- No notable changes.</description><enclosure url="https://github.com/tyrival/Fringe-Release/releases/download/v1.2.5/Fringe.dmg" sparkle:version="22" sparkle:shortVersionString="1.2.5" length="2785117" type="application/octet-stream" sparkle:edSignature="xAMx/K5Uzl7BaGNU12yHhATVIyGLh+s5keHMOE8qPJ4Ifly9ObN/UwxSDfHPlu+G4GMN3CvkAszT1awOTp8qAA==" /></item><item><title>Version 1.2.4</title><sparkle:version>21</sparkle:version><sparkle:shortVersionString>1.2.4</sparkle:shortVersionString><sparkle:minimumSystemVersion>26.5</sparkle:minimumSystemVersion><description sparkle:format="markdown">## What's New
 - Added local text tools for on-device text processing.
 - Added an action registry to manage available actions.
 
