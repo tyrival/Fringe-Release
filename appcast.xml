@@ -4,7 +4,14 @@
     <title>Fringe</title>
     <description>Most recent updates to Fringe</description>
     <language>en</language>
-  <item><title>Version 1.2.5</title><sparkle:version>22</sparkle:version><sparkle:shortVersionString>1.2.5</sparkle:shortVersionString><sparkle:minimumSystemVersion>26.5</sparkle:minimumSystemVersion><description sparkle:format="markdown">## What's New
+  <item><title>Version 1.2.6</title><sparkle:version>23</sparkle:version><sparkle:shortVersionString>1.2.6</sparkle:shortVersionString><sparkle:minimumSystemVersion>26.5</sparkle:minimumSystemVersion><description sparkle:format="markdown">## What's New
+- No notable changes.
+
+## Improvements
+- No notable changes.
+
+## Fixes
+- Fixed clipboard compatibility in the paste panel.</description><enclosure url="https://github.com/tyrival/Fringe-Release/releases/download/v1.2.6/Fringe.dmg" sparkle:version="23" sparkle:shortVersionString="1.2.6" length="2791458" type="application/octet-stream" sparkle:edSignature="9QhdiTQb+2pv4Y4zPSBLRMkTPEdwDz1pXfxMyuz0xdMQ88lh1h/AelqKMioqwAlhkCalMNjYoKKhuU9FIDehDg==" /></item><item><title>Version 1.2.5</title><sparkle:version>22</sparkle:version><sparkle:shortVersionString>1.2.5</sparkle:shortVersionString><sparkle:minimumSystemVersion>26.5</sparkle:minimumSystemVersion><description sparkle:format="markdown">## What's New
 - Global Text panel now expands to 630px and uses your editor font settings.
 
 ## Improvements
