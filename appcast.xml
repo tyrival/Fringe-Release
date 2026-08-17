@@ -4,7 +4,14 @@
     <title>Fringe</title>
     <description>Most recent updates to Fringe</description>
     <language>en</language>
-  <item><title>Version 1.2.7</title><sparkle:version>24</sparkle:version><sparkle:shortVersionString>1.2.7</sparkle:shortVersionString><sparkle:minimumSystemVersion>26.5</sparkle:minimumSystemVersion><description sparkle:format="markdown">## What's New
+  <item><title>Version 1.2.8</title><sparkle:version>25</sparkle:version><sparkle:shortVersionString>1.2.8</sparkle:shortVersionString><sparkle:minimumSystemVersion>26.5</sparkle:minimumSystemVersion><description sparkle:format="markdown">## What's New
+- No notable changes.
+
+## Improvements
+- No notable changes.
+
+## Fixes
+- Panel backgrounds are now opaque for better readability.</description><enclosure url="https://github.com/tyrival/Fringe-Release/releases/download/v1.2.8/Fringe.dmg" sparkle:version="25" sparkle:shortVersionString="1.2.8" length="2789689" type="application/octet-stream" sparkle:edSignature="ddNCyzb6E1i27SPD7T7bGVcMN5JRacnuh+559HWcWg9d0LxLN+Eapl7kqVlGMh7SeHPnbqQfRo+X6HvrUE0bBw==" /></item><item><title>Version 1.2.7</title><sparkle:version>24</sparkle:version><sparkle:shortVersionString>1.2.7</sparkle:shortVersionString><sparkle:minimumSystemVersion>26.5</sparkle:minimumSystemVersion><description sparkle:format="markdown">## What's New
 - No notable changes.
 
 ## Improvements
