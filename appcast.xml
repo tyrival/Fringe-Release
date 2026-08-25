@@ -4,7 +4,15 @@
     <title>Fringe</title>
     <description>Most recent updates to Fringe</description>
     <language>en</language>
-  <item><title>Version 1.3.0</title><sparkle:version>26</sparkle:version><sparkle:shortVersionString>1.3.0</sparkle:shortVersionString><sparkle:minimumSystemVersion>26.5</sparkle:minimumSystemVersion><description sparkle:format="markdown">## What's New
+  <item><title>Version 1.3.1</title><sparkle:version>27</sparkle:version><sparkle:shortVersionString>1.3.1</sparkle:shortVersionString><sparkle:minimumSystemVersion>26.5</sparkle:minimumSystemVersion><description sparkle:format="markdown">## What's New
+- No notable changes.
+
+## Improvements
+- Restyled the text panel capsule.
+- Improved coordination between panels.
+
+## Fixes
+- No notable changes.</description><enclosure url="https://github.com/tyrival/Fringe-Release/releases/download/v1.3.1/Fringe.dmg" sparkle:version="27" sparkle:shortVersionString="1.3.1" length="2721411" type="application/octet-stream" sparkle:edSignature="nptl6c2tm+e/HKeazgHkIiTxNUpyoDh71Tt9F5vjOr6IshnKXMqluQDs1G9zLCnl8F1p3zGM5jbAbab/DAwIBA==" /></item><item><title>Version 1.3.0</title><sparkle:version>26</sparkle:version><sparkle:shortVersionString>1.3.0</sparkle:shortVersionString><sparkle:minimumSystemVersion>26.5</sparkle:minimumSystemVersion><description sparkle:format="markdown">## What's New
 - No notable changes.
 
 ## Improvements
