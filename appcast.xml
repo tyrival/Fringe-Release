@@ -4,7 +4,14 @@
     <title>Fringe</title>
     <description>Most recent updates to Fringe</description>
     <language>en</language>
-  <item><title>Version 1.3.1</title><sparkle:version>27</sparkle:version><sparkle:shortVersionString>1.3.1</sparkle:shortVersionString><sparkle:minimumSystemVersion>26.5</sparkle:minimumSystemVersion><description sparkle:format="markdown">## What's New
+  <item><title>Version 1.4.0</title><sparkle:version>28</sparkle:version><sparkle:shortVersionString>1.4.0</sparkle:shortVersionString><sparkle:minimumSystemVersion>26.5</sparkle:minimumSystemVersion><description sparkle:format="markdown">## What's New
+- Add text diff views for comparing text versions side by side.
+
+## Improvements
+- No notable changes.
+
+## Fixes
+- No notable changes.</description><enclosure url="https://github.com/tyrival/Fringe-Release/releases/download/v1.4.0/Fringe.dmg" sparkle:version="28" sparkle:shortVersionString="1.4.0" length="2824264" type="application/octet-stream" sparkle:edSignature="mtyyM6l6hx4MwTLZpQmYvPtgDgeAbJ/vAzYOBASPC2jGr/kPv0n0Mm8ks8+trM6OBwT3QAfOmi6lKr55Erh9Cg==" /></item><item><title>Version 1.3.1</title><sparkle:version>27</sparkle:version><sparkle:shortVersionString>1.3.1</sparkle:shortVersionString><sparkle:minimumSystemVersion>26.5</sparkle:minimumSystemVersion><description sparkle:format="markdown">## What's New
 - No notable changes.
 
 ## Improvements
